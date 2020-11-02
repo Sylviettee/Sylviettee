@@ -11,11 +11,6 @@
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api?username=sovietkitsune&show_icons=true"
-/>
-
-<img
-  align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovietkitsune&show_icons=true"
 />
 
@@ -29,4 +24,9 @@
 <img
   align="center"
   src="https://github-readme-stats.vercel.app/api/pin/?username=sovietkitsune&repo=lua-strap"
+/>
+
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=sovietkitsune&repo=cli-text-editor"
 />
