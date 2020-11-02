@@ -18,7 +18,7 @@
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/pin/?username=comrade-project&repo=comrade"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=sovietkitsune&repo=comrade"
 />
 
 <img
