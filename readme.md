@@ -32,7 +32,4 @@ Ranked from most liked to least liked.
 
 ## Statistics
 
-<img
-  align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sovietkitsune&show_icons=true"
-/>
+![Statistics](https://github.com/SovietKitsune/SovietKitsune/blob/master/github-metrics.svg)
