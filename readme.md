@@ -12,7 +12,6 @@ Hello, im Soviet and I make a *few* bugs. Chaotic fun is fun until you break som
 ## Upcoming Projects
 
 * [SovietDan](https://github.com/SovietKitsune/SovietDan) - A bot written using SuperToast to show all of the functionality of SuperToast.
-* [uTyped](https://github.com/SovietKitsune/uTyped) - An upgrade to typed including types files and quick integration into projects without debug.
 
 ## Finished/Scrapped Projects
 
