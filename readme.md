@@ -5,18 +5,13 @@ Hello, im Soviet and I make a *few* bugs. Chaotic fun is fun until you break som
 ## Current Projects
 
 * [SuperToast](https://github.com/SovietKitsune/SuperToast) - A bot framework for discordia speeding up development.
-* [typed](https://github.com/SovietKitsune/typed) - A small module used to inspect types, enforce types and more.
-* [Lua-Strap](https://github.com/SovietKitsune/Lua-Strap) - (WIP) An app to bootstrap projects from toml files including dependencies from Luarocks, lit and git.
-* [rust-lua-doc](https://github.com/SovietKitsune/rust-lua-doc) - (WIP) An app to create documentation using EmmyLua syntax mixed with LDoc.
-
-## Upcoming Projects
-
-* [SovietDan](https://github.com/SovietKitsune/SovietDan) - A bot written using SuperToast to show all of the functionality of SuperToast.
+* [lua-docs](https://github.com/SovietKitsune/rust-lua-doc) - (WIP) An app to create documentation using Teal.
 
 ## Finished/Scrapped Projects
 
-* [terrible-lite](https://github.com/SovietKitsune/terrible-lite) - Chaotic thing
-* [Comrade](https://github.com/SovietKitsune/Comrade) - A bot framework for discordia written in MoonScript
+* [terrible-lite](https://github.com/SovietKitsune/terrible-lite) - Chaotic thing.
+* [Comrade](https://github.com/SovietKitsune/Comrade) - A bot framework for discordia written in MoonScript.
+* [typed](https://github.com/SovietKitsune/typed) - A small module used to inspect types, enforce types and more.
 
 ## Favorite Languages
 
