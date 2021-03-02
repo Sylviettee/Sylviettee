@@ -5,7 +5,7 @@ Hello, im Soviet and I make a *few* bugs. Chaotic fun is fun until you break som
 ## Current Projects
 
 * [SuperToast](https://github.com/SovietKitsune/SuperToast) - A bot framework for discordia speeding up development.
-* [lua-docs](https://github.com/SovietKitsune/rust-lua-doc) - (WIP) An app to create documentation using Teal.
+* [tealdocs](https://github.com/SovietKitsune/tealdocs) - (WIP) An app to create documentation using Teal.
 
 ## Finished/Scrapped Projects
 
