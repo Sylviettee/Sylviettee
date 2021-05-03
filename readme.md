@@ -5,6 +5,7 @@ Hello, im Soviet and I make a *few* bugs. Chaotic fun is fun until you break som
 ## Current Projects
 
 * [SuperToast](https://github.com/SovietKitsune/SuperToast) - A bot framework for discordia speeding up development.
+* [Shiroko](https://github.com/SovietKitsune/shiroko) - Experimental linter for Teal
 * [tealdoc](https://github.com/SovietKitsune/tealdoc) - (WIP) An app to create documentation using Teal.
 
 ## Finished/Scrapped Projects
@@ -17,6 +18,7 @@ Hello, im Soviet and I make a *few* bugs. Chaotic fun is fun until you break som
 
 Ranked from most liked to least liked.
 
+* Teal (soon badge)
 * [![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua)](https://lua.org)
 * [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://rust-lang.org)
 * [![](https://img.shields.io/badge/Go-EEEEEE?st00ADD8yle=flat-square&logo=go)](https://golang.org)
