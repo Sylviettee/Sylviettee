@@ -9,7 +9,7 @@ I am Soviet and I make bugs.
 
 ## On hold
 
-* [SuperToast](https://github.com/SovietKitsune/SuperToast) - A bot framework for discordia speeding up development.****
+* [SuperToast](https://github.com/SovietKitsune/SuperToast) - A bot framework for discordia speeding up development.
 
 ## Finished/Scrapped Projects
 
