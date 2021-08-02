@@ -1357,9 +1357,9 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="363.2860874319153" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="363.2860874319153" y="0" width="63.01450063492707" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="363.2860874319153" y="0" width="63.01450063492707" height="8" fill="#ff4585"/>
                     <rect mask="url(#languages-bar)" x="426.30058806684235" y="0" width="16.85868750885861" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="443.159275575701" y="0" width="11.695963946556208" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="443.159275575701" y="0" width="11.695963946556208" height="8" fill="#f0c040"/>
                     <rect mask="url(#languages-bar)" x="454.8552395222572" y="0" width="3.049732578555953" height="8" fill="#563d7c"/>
                     <rect mask="url(#languages-bar)" x="457.9049721008131" y="0" width="0.9726677639286221" height="8" fill="#89e051"/>
                     <rect mask="url(#languages-bar)" x="458.8776398647417" y="0" width="0.7797309297704139" height="8" fill="#7e7eff"/>
@@ -1371,7 +1371,7 @@
                 Lua
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ff4585" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 MoonScript
               </div>
                     <div class="field center no-wrap language">
@@ -1379,7 +1379,7 @@
                 Rust
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f0c040" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Smarty
               </div>
                     <div class="field center no-wrap language">
@@ -1402,7 +1402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 02/08/2021, 10:17  with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 02/08/2021, 11:13  with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
