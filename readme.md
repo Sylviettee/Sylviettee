@@ -1,6 +1,6 @@
 ## About me
 
-I am Soviet and I make ~~bugs~~ *features*.
+I am Soviet and I make ~~bugs~~ *features*. I do other things *sometimes*.
 
 ## Current Projects
 
@@ -19,14 +19,21 @@ I am Soviet and I make ~~bugs~~ *features*.
 * [Comrade](https://github.com/SovietKitsune/Comrade) - A bot framework for discordia written in MoonScript.
 * [typed](https://github.com/SovietKitsune/typed) - A small module used to inspect types, enforce types and more.
 
-## Favorite Languages
+## Languages
 
-Ranked from most liked to least liked.
+I like languages, they are cool.
 
-* [Teal](https://github.com/teal-language/tl) (soon badge)
+### Loved Languages
+
 * [![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua)](https://lua.org)
 * [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://rust-lang.org)
-* [![](https://img.shields.io/badge/Go-EEEEEE?st00ADD8yle=flat-square&logo=go)](https://golang.org)
+* [![](https://img.shields.io/badge/Kotlin-FFFFFF?style=flat-square&logo=kotlin)](https://kotlinlang.org)
+* [![](https://img.shields.io/badge/Elm-FFFFFF?style=flat-square&logo=elm)](https://elm-lang.org)
+
+### Hated Languages
+
+* [![](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/javascript) - Inconsistent Semantics
+* [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)](https://www.java.com/en/) - Forced Object Oriented Programming
 
 ## Statistics
 
