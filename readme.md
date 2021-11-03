@@ -1,6 +1,6 @@
 ## About me
 
-I am Soviet and I make bugs.
+I am Soviet and I make ~~bugs~~ *features*.
 
 ## Current Projects
 
