@@ -2,6 +2,8 @@
 
 I am Soviet and I make ~~bugs~~ *features*. I do other things *sometimes*.
 
+> Why do today what you can put off till tomorrow?
+
 ## Current Projects
 
 * Nodoka - Parser generator
