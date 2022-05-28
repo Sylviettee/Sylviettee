@@ -4,22 +4,9 @@ I am Soviet/Wall and I make ~~bugs~~ *features*. I do other things *sometimes*.
 
 > Why do today what you can put off till tomorrow? - Squidward Tortellini
 
-## Current Projects
+## What am I up to?
 
-* *who knows*
-
-## On hold
-
-* [Shiroko](https://github.com/SovietKitsune/shiroko) - Experimental linter for Teal.
-* [tealdoc](https://github.com/SovietKitsune/tealdoc) - (WIP) An app to create documentation using Teal.
-* [SuperToast](https://github.com/SovietKitsune/SuperToast) - A bot framework for discordia speeding up development.
-* Nodoka - Parser generator
-
-## Finished/Scrapped Projects
-
-* [terrible-lite](https://github.com/SovietKitsune/terrible-lite) - Chaotic thing.
-* [Comrade](https://github.com/SovietKitsune/Comrade) - A bot framework for discordia written in MoonScript.
-* [typed](https://github.com/SovietKitsune/typed) - A small module used to inspect types, enforce types and more.
+Check my [project board](https://github.com/users/SovietKitsune/projects/3/views/1).
 
 ## Languages
 
