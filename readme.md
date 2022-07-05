@@ -1,8 +1,8 @@
 ## About me
 
-I am Soviet/Wall and I make ~~bugs~~ *features*. I do other things *sometimes*.
+I am Soviet/Wall (or if you want a more human name, Alex) and I make ~~bugs~~ *features*. I do other things *sometimes*.
 
-> Why do today what you can put off till tomorrow? - Squidward Tortellini
+> Why do today what you can put off till tomorrow? - Squidward Tennis Balls
 
 ## What am I up to?
 
