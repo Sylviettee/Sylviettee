@@ -18,6 +18,7 @@ I like languages, they are cool.
 * [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://rust-lang.org)
 * [![](https://img.shields.io/badge/Kotlin-FFFFFF?style=flat-square&logo=kotlin)](https://kotlinlang.org)
 * [![](https://img.shields.io/badge/Elm-FFFFFF?style=flat-square&logo=elm)](https://elm-lang.org)
+* [![](https://img.shields.io/badge/Zig-FFFFFF?style=flat-square&logo=zig)](https://ziglang.org)
 
 ### Hated Languages
 
