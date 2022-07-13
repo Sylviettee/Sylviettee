@@ -25,6 +25,11 @@ I like languages, they are cool.
 * [![](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/javascript) - Inconsistent Semantics
 * [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)](https://www.java.com/en/) - Forced Object Oriented Programming
 
+### Other Languages
+
+* [![](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python)](https://python.org)
+* [![](https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=c)](https://www.iso.org/standard/74528.html)
+
 ## Statistics
 
 ![Statistics](https://github.com/SovietKitsune/SovietKitsune/blob/master/github-metrics.svg)
