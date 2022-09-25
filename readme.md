@@ -1,6 +1,6 @@
 ## About me
 
-I am Soviet/Wall (or if you want a more human name, Alex) and I make ~~bugs~~ *features*. I do other things *sometimes*.
+I am Soviet/Wall (or if you want a more human name, Alex, Aylex, Aleks, (pr more spelling variations)) and I make ~~bugs~~ *features*. I do other things *sometimes*.
 
 > Why do today what you can put off till tomorrow? - Squidward Tennis Balls
 
