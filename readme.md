@@ -2,6 +2,8 @@
 
 I am Soviet/Wall (or if you want a more human name, Alex, Aylex, Aleks, (pr more spelling variations)) and I make ~~bugs~~ *features*. I do other things *sometimes*.
 
+she/they
+
 > Why do today what you can put off till tomorrow? - Squidward Tennis Balls
 
 ## What am I up to?
@@ -17,6 +19,7 @@ I like languages, they are cool.
 * [![](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua)](https://lua.org)
 * [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://rust-lang.org)
 * [![](https://img.shields.io/badge/Kotlin-FFFFFF?style=flat-square&logo=kotlin)](https://kotlinlang.org)
+* [![](https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=c)](https://www.iso.org/standard/74528.html)
 * [![](https://img.shields.io/badge/Elm-FFFFFF?style=flat-square&logo=elm)](https://elm-lang.org)
 * [![](https://img.shields.io/badge/Zig-FFFFFF?style=flat-square&logo=zig)](https://ziglang.org)
 
@@ -28,7 +31,6 @@ I like languages, they are cool.
 ### Other Languages
 
 * [![](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python)](https://python.org)
-* [![](https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=c)](https://www.iso.org/standard/74528.html)
 
 ## Statistics
 
