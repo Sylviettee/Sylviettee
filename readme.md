@@ -1,10 +1,10 @@
 ## About me
 
-I am Soviet/Wall (or if you want a more human name, Sylvia) and I make ~~bugs~~ *features*. I do other things *sometimes*.
+I am Sylvia the Conartist and I make ~~bugs~~ *features*. I do other things *sometimes*.
 
-she/they
+she/they/fae
 
-> Why do today what you can put off till tomorrow? - Squidward Tennis Balls
+> Grand larceny is *only* a felony
 
 ## What am I up to?
 
