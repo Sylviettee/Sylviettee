@@ -6,6 +6,8 @@ she/they/fae
 
 > Grand larceny is *only* a felony
 
+<a rel="me" href="https://sylvia-is.gay/@sylvia">Follow me on Mastodon to see something every blue moon.</a>
+
 ## What am I up to?
 
 Check my [project board](https://github.com/users/SovietKitsune/projects/3/views/1).
