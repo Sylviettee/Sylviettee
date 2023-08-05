@@ -1,12 +1,10 @@
 ## About me
 
-I am Sylvia the Conartist and I make ~~bugs~~ *features*. I do other things *sometimes*.
+I'm Sylvia and I make ~~bugs~~ *features*. I do other things *sometimes*.
 
-she/they/fae
+she/fae/they
 
 > Grand larceny is *only* a felony
-
-[Follow me on Mastodon to see something every blue moon.](https://sylvia-is.gay/@sylvia)
 
 ## What am I up to?
 
