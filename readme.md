@@ -2,17 +2,15 @@
 
 I'm Sylvia and I make ~~bugs~~ *features*. I do other things *sometimes*.
 
-she/fae/they
-
-> Grand larceny is *only* a felony
+> "I disapprove of what you say, but I will defend to the death your right to say it"
 
 ## What am I up to?
 
-Check my [project board](https://github.com/users/SovietKitsune/projects/3/views/1).
+Check my [project board](https://github.com/users/SovietKitsune/projects/3/views/1) (probably outdated).
 
 ## Languages
 
-I like languages, they are cool.
+I like languages, they're cool.
 
 ### Loved Languages
 
@@ -25,13 +23,14 @@ I like languages, they are cool.
 
 ### Hated Languages
 
-* [![](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/javascript) - Inconsistent Semantics
-* [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)](https://www.java.com/en/) - Forced Object Oriented Programming
+* [![](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+* [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=coffeescript)](https://www.java.com/en/)
 
 ### Other Languages
 
+* [![](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 * [![](https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python)](https://python.org)
 
 ## Statistics
 
-![Statistics](https://github.com/SovietKitsune/SovietKitsune/blob/master/github-metrics.svg)
+![Statistics](./github-metrics.svg)
