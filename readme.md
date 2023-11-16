@@ -1,16 +1,10 @@
-## About me
+## About Me*
 
-I'm Sylvia and I make ~~bugs~~ *features*. I do other things *sometimes*.
+I'm* Sylvia and I make ~~bugs~~ *features*. I* do other things *sometimes*.
 
-> "I disapprove of what you say, but I will defend to the death your right to say it"
+## Programming Languages
 
-## What am I up to?
-
-Check my [project board](https://github.com/users/SovietKitsune/projects/3/views/1) (probably outdated).
-
-## Languages
-
-I like languages, they're cool.
+I* like programming languages, they're cool.
 
 ### Loved Languages
 
@@ -20,6 +14,7 @@ I like languages, they're cool.
 * [![](https://img.shields.io/badge/C-FFFFFF?style=flat-square&logo=c)](https://www.iso.org/standard/74528.html)
 * [![](https://img.shields.io/badge/Elm-FFFFFF?style=flat-square&logo=elm)](https://elm-lang.org)
 * [![](https://img.shields.io/badge/Zig-FFFFFF?style=flat-square&logo=zig)](https://ziglang.org)
+* [![](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir)](https://elixir-lang.org)
 
 ### Hated Languages
 
