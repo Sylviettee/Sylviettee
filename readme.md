@@ -1,13 +1,9 @@
-<p align="center">
-   I'm* Sylvia and I make <s>bugs</s> <i>features</i>. I* do other things <i>sometimes</i>.
-</p>
+<div align="center">
+   <p>
+      I'm* Sylvia and I make <s>bugs</s> <i>features</i>. I* do other things <i>sometimes</i>.
+   </p>
 
-<p align="center">
    <a href="https://sylvia-is.gay">sylvia-is.gay</a>
-</p>
-
-<details align="center">
-   <summary>Programming language opinions</summary>
 
    <h3>Good Languages</h3>
 
@@ -55,10 +51,8 @@
          <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python"/>
       </a>
    </p>
-</details>
 
-<hr/>
+   <hr/>
 
-<p align="center">
    <img src="./github-metrics.svg" />
-</p>
+</div>
