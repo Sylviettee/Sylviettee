@@ -1,6 +1,6 @@
 <div align="center">
    <p>
-      I'm* Sylvia and I make <s>bugs</s> <i>features</i>. I* do other things <i>sometimes</i>.
+      I'm Sylvia and I make <s>bugs</s> <i>features</i>. I do other things <i>sometimes</i>.
    </p>
 
    <a href="https://sylvia-is.gay">sylvia-is.gay</a>
